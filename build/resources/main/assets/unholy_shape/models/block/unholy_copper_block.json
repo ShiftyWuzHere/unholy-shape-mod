@@ -1,0 +1,19 @@
+{
+  "parent": "neoforge:item/default",
+  "loader": "neoforge:composite",
+  "children": {
+    "part1": {
+      "loader": "neoforge:obj",
+      "render_type": "solid",
+      "model": "unholy_shape:models/item/waxedlightlyweatheredcutcoppertriacontadihedron.obj",
+      "emissive_ambient": true,
+      "textures": {
+        "m_15c50e8a-ff0a-d56a-2d73-8f018745a8dc": "minecraft:block/exposed_cut_copper",
+        "particle": "minecraft:block/exposed_cut_copper"
+      }
+    }
+  },
+  "textures": {
+    "particle": "minecraft:block/exposed_cut_copper"
+  }
+}

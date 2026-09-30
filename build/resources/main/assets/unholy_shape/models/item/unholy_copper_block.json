@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "unholy_shape:item/captura_de_tela_2026-09-21_012842"
+  }
+}

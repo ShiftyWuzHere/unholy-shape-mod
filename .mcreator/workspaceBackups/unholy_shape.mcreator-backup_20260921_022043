@@ -1,0 +1,67 @@
+{
+  "mod_elements": [
+    {
+      "name": "UnholyCopperBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unholy_copper_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/unholy_shape/items/unholy_copper_block.json",
+          "src/main/resources/assets/unholy_shape/blockstates/unholy_copper_block.json",
+          "src/main/resources/assets/unholy_shape/models/item/unholy_copper_block.json",
+          "src/main/java/net/mcreator/unholyshape/block/UnholyCopperBlockBlock.java",
+          "src/main/resources/assets/unholy_shape/models/block/unholy_copper_block.json",
+          "src/main/resources/data/unholy_shape/loot_table/blocks/unholy_copper_block.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~UnholyCopperBlock@CUSTOM:UnholyCopperBlock"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~UnholyCopperBlock@CUSTOM:UnholyCopperBlock"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.unholy_shape.unholy_copper_block": "Waxed Lightly Weathered Cut Copper Tricontadihedron"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/unholyshape/init/UnholyShapeModBlocks.java",
+      "src/main/java/net/mcreator/unholyshape/init/UnholyShapeModItems.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/unholyshape/init/UnholyShapeModTabs.java",
+      "src/main/java/net/mcreator/unholyshape/UnholyShapeMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "unholy_shape",
+    "modName": "Waxed Lightly Weathered Cut Copper Tricontadihedron",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-26.2",
+    "modElementsPackage": "net.mcreator.unholyshape"
+  },
+  "mcreatorVersion": 202600233518
+}

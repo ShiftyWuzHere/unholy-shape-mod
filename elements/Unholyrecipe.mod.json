@@ -1,0 +1,21 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "Blocks.WAXED_EXPOSED_CUT_COPPER"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": "Blocks.WAXED_EXPOSED_CUT_COPPER",
+    "stoneCuttingReturnStack": "CUSTOM:UnholyCopperBlock",
+    "name": "unholyrecipe",
+    "namespace": "mod"
+  }
+}

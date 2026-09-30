@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:waxed_exposed_cut_copper",
+  "result": {
+    "id": "unholy_shape:unholy_copper_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 78122,
+      "minecraft:walk_one_cm": 30767,
+      "minecraft:leave_game": 6,
+      "minecraft:walk_under_water_one_cm": 7040,
+      "minecraft:damage_dealt": 20,
+      "minecraft:play_time": 39061,
+      "minecraft:jump": 74,
+      "minecraft:time_since_death": 39061,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 2825,
+      "minecraft:open_chest": 2,
+      "minecraft:total_world_time": 50231,
+      "minecraft:fly_one_cm": 179677,
+      "minecraft:walk_on_water_one_cm": 4365,
+      "minecraft:crouch_one_cm": 531,
+      "minecraft:sneak_time": 1404,
+      "minecraft:interact_with_stonecutter": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:wheat_seeds": 1,
+      "unholy_shape:unholy_copper_block": 1,
+      "minecraft:redstone": 1
+    },
+    "minecraft:dropped": {
+      "unholy_shape:unholy_copper_block": 1,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:used": {
+      "minecraft:waxed_exposed_copper_chest": 13,
+      "unholy_shape:unholy_copper_block": 437,
+      "minecraft:waxed_exposed_cut_copper": 14,
+      "minecraft:spruce_shelf": 6,
+      "minecraft:waxed_exposed_copper_door": 1,
+      "minecraft:waxed_exposed_cut_copper_slab": 21,
+      "minecraft:sticky_piston": 11,
+      "minecraft:glass": 1,
+      "minecraft:mangrove_trapdoor": 1,
+      "minecraft:waxed_exposed_lightning_rod": 1,
+      "minecraft:glowstone": 6,
+      "minecraft:waxed_exposed_copper_lantern": 6,
+      "minecraft:waxed_exposed_copper_golem_statue": 11,
+      "minecraft:waxed_exposed_copper_bars": 16,
+      "minecraft:piston": 5,
+      "minecraft:lever": 2,
+      "minecraft:redstone_block": 20,
+      "minecraft:orange_bed": 1,
+      "minecraft:redstone": 5,
+      "minecraft:waxed_exposed_cut_copper_stairs": 114,
+      "minecraft:stonecutter": 2,
+      "minecraft:redstone_torch": 1,
+      "minecraft:carved_pumpkin": 2,
+      "minecraft:spruce_trapdoor": 2,
+      "minecraft:sandstone": 99
+    },
+    "minecraft:crafted": {
+      "minecraft:air": 0
+    }
+  },
+  "DataVersion": 4903
+}

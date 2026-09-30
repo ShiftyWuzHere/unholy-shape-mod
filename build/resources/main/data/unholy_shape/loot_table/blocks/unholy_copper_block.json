@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "unholy_shape:blocks/unholy_copper_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "unholy_shape:unholy_copper_block"
+        }
+      ]
+    }
+  ]
+}

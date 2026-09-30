@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+ - --sun-misc-unsafe-memory-access=allow
+ - -jar
+ - C:\Users\pedro\.mcreator\gradle\caches\modules-2\files-2.1\io.codechicken\DiffPatch\2.0.0.36\5b32f9baa0c0371c0dc80a3b88794960af0c6b44\DiffPatch-2.0.0.36-all.jar
+ - C:\Users\pedro\.mcreator\gradle\caches\neoformruntime\intermediate_results\patch_1ec936e20cde482259c167ffdcb9e2355d4bc5c6_output.zip
+ - C:\Users\pedro\.mcreator\gradle\caches\modules-2\files-2.1\net.neoforged\neoforge\26.2.0.59\6b808190c23fbb6fb972ecc2ebcc9d906178eed0\neoforge-26.2.0.59-userdev.jar
+ - --prefix
+ - patches/
+ - --patch
+ - --archive
+ - ZIP
+ - --output
+ - ./output.zip
+ - --log-level
+ - WARN
+ - --mode
+ - OFFSET
+ - --archive-rejects
+ - ZIP
+ - --reject
+ - ./outputRejects.zip
+ - --base-path-prefix
+ - a/
+ - --modified-path-prefix
+ - b/
+--------------------------------------------------------------------------------
+

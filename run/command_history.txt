@@ -1,0 +1,6 @@
+/item replace entity s
+/item replace entity Dev armor.head with unholy_shape:unholy_copper_block
+/time set day
+/time set minecraft:day
+/item replace entity Dev armor.body with unholy_shape:unholy_copper_block
+/item replace entity Dev armor.head with unholy_shape:unholy_copper_block

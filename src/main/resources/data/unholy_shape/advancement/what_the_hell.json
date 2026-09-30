@@ -1,0 +1,34 @@
+{
+  "display": {
+    "background": "unholy_shape:screens/captura_de_tela_2026-09-15_135057",
+    "icon": {
+      "id": "unholy_shape:unholy_copper_block"
+    },
+    "title": {
+      "translate": "advancements.what_the_hell.title"
+    },
+    "description": {
+      "translate": "advancements.what_the_hell.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "what_the_hell_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "unholy_shape:unholy_copper_block",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  }
+}

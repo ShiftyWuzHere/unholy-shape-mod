@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "m_15c50e8a-ff0a-d56a-2d73-8f018745a8dc": "minecraft:exposed_cut_copper"
+      }
+    }
+  }
+}
